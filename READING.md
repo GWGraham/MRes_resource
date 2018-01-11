@@ -1,0 +1,237 @@
+# Initial references for project students
+
+## CPR
+
+@Article{REID2003117,
+  author   = {P.C. Reid and J.M. Colebrook and J.B.L. Matthews and J. Aiken},
+  title    = {The Continuous Plankton Recorder: concepts and history, from Plankton Indicator to undulating recorders},
+  journal  = {Progress in Oceanography},
+  year     = {2003},
+  volume   = {58},
+  number   = {2},
+  pages    = {117 - 173},
+  issn     = {0079-6611},
+  note     = {Achievements of the continuous plankton recorder survey and a vision for its future},
+  doi      = {https://doi.org/10.1016/j.pocean.2003.08.002},
+  keywords = {Continuous Plankton Recorder (CPR), Phytoplankton, Zooplankton, Time series, Biogeography, Oceanographic instrumentation, North Sea, North Atlantic, North Pacific},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0079661103001277},
+}
+
+@Article{RICHARDSON200627,
+  author   = {A.J. Richardson and A.W. Walne and A.W.G. John and T.D. Jonas and J.A. Lindley and D.W. Sims and D. Stevens and M. Witt},
+  title    = {Using continuous plankton recorder data},
+  journal  = {Progress in Oceanography},
+  year     = {2006},
+  volume   = {68},
+  number   = {1},
+  pages    = {27 - 74},
+  issn     = {0079-6611},
+  doi      = {https://doi.org/10.1016/j.pocean.2005.09.011},
+  keywords = {Time series, Monitoring, CPR, Phytoplankton, Zooplankton, Diet, Size},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0079661105001424},
+}
+
+@Article{BATTEN2003193,
+  author   = {S.D Batten and R Clark and J Flinkman and G Hays and E John and A.W.G John and T Jonas and J.A Lindley and D.P Stevens and A Walne},
+  title    = {CPR sampling: the technical background, materials and methods, consistency and comparability},
+  journal  = {Progress in Oceanography},
+  year     = {2003},
+  volume   = {58},
+  number   = {2},
+  pages    = {193 - 215},
+  issn     = {0079-6611},
+  note     = {Achievements of the continuous plankton recorder survey and a vision for its future},
+  doi      = {https://doi.org/10.1016/j.pocean.2003.08.004},
+  keywords = {Continuous Plankton Recorder, Zooplankton, European shelf, Consistency},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0079661103001290},
+}
+
+## Sensor Technology
+
+@Article{article,
+  author  = {Fabien Roquet | Department of Meteorology, Stockholm University, Stockholm, Sweden Lars Boehme | Sea Mammal Research Unit, University of St Andrews, Fife, Scotland, UK Mike A. Fedak | Sea Mammal Research Unit, University of St Andrews, Fife, Scotland, UK Barbara Block | Stanford Woods Institute for the Environment, Pacific Grove, CA, USA Jean-Benoit Charrassin | LOCEAN, Sorbonne University, Paris, France Daniel Costa | University of California, Santa Cruz, CA, USA Luis A. Hückstädt | University of California, Santa Cruz, CA, USA Christophe Guinet | CEBC, Université de La Rochelle/CNRS, France Robert G. Harcourt | Department of Biological Sciences, Macquarie University, Sydney, New South Wales, Australia Mark A. Hindell | Institute for Marine and Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia Clive R. McMahon | Sydney Institute of Marine Science, Mosman, New South Wales, Australia Bill Woodward | NOAA/IOOS, Silver Spring, MD, USA},
+  title   = {Ocean Observations Using Tagged Animals},
+  journal = {Oceanography},
+  year    = {2017},
+  volume  = {30},
+  month   = {June},
+  groups  = {PlankTag},
+  url     = {https://doi.org/10.5670/oceanog.2017.235},
+}
+
+@Article{essd-5-15-2013,
+  author  = {Guinet, C. and Xing, X. and Walker, E. and Monestiez, P. and Marchand, S. and Picard, B. and Jaud, T. and Authier, M. and Cott\'e, C. and Dragon, A. C. and Diamond, E. and Antoine, D. and Lovell, P. and Blain, S. and D'Ortenzio, F. and Claustre, H.},
+  title   = {Calibration procedures and first dataset of Southern Ocean chlorophyll a profiles collected by elephant seals equipped with a newly developed CTD-fluorescence tags},
+  journal = {Earth System Science Data},
+  year    = {2013},
+  volume  = {5},
+  number  = {1},
+  pages   = {15--29},
+  doi     = {10.5194/essd-5-15-2013},
+  groups  = {PlankTag},
+  url     = {https://www.earth-syst-sci-data.net/5/15/2013/},
+}
+
+@Article{GRL:GRL51202,
+  author   = {Blain, Stéphane and Renaut, Sophie and Xing, Xiaogang and Claustre, Hervé and Guinet, Christophe},
+  title    = {Instrumented elephant seals reveal the seasonality in chlorophyll and light-mixing regime in the iron-fertilized Southern Ocean},
+  journal  = {Geophysical Research Letters},
+  year     = {2013},
+  volume   = {40},
+  number   = {24},
+  pages    = {6368--6372},
+  issn     = {1944-8007},
+  note     = {2013GL058065},
+  doi      = {10.1002/2013GL058065},
+  groups   = {PlankTag},
+  keywords = {Phytoplankton, Biogeochemical cycles, processes, and modeling, Instruments, sensors, and techniques, Southern Ocean, climatology, chlorophyll, iron fertilization},
+  url      = {http://dx.doi.org/10.1002/2013GL058065},
+}
+
+## Fluorometery
+
+@Article{Hays1994,
+  author        = {Hays, G.C. and Lindley, J.A.},
+  title         = {Estimating chlorophyll a abundance from the ‘phytoplankton colour’ recorded by the Continuous Plankton Recorder survey: validation with simultaneous fluorometry},
+  journal       = {Journal of Plankton Research},
+  year          = {1994},
+  volume        = {16},
+  number        = {1},
+  pages         = {23-34},
+  doi           = {10.1093/plankt/16.1.23},
+  eprint        = {/oup/backfile/content_public/journal/plankt/16/1/10.1093_plankt_16.1.23/3/16-1-23.pdf},
+  url           = { + http://dx.doi.org/10.1093/plankt/16.1.23},
+}
+
+@Article{Raitsos2013,
+  author        = {Raitsos, Dionysios E. and Walne, Anthony and Lavender, Samantha J. and Licandro, Priscilla and Reid, Philip C. and Edwards, Martin},
+  title         = {A 60-year ocean colour data set from the continuous plankton recorder},
+  journal       = {Journal of Plankton Research},
+  year          = {2013},
+  volume        = {35},
+  number        = {1},
+  pages         = {158-164},
+  doi           = {10.1093/plankt/fbs079},
+  eprint        = {/oup/backfile/content_public/journal/plankt/35/1/10.1093/plankt/fbs079/2/fbs079.pdf},
+  url           = { + http://dx.doi.org/10.1093/plankt/fbs079},
+}
+
+@Article{Aiken1981,
+  author        = {J. Aiken},
+  title         = {A Chlorophyll Sensor for Automatic, Remote, Operation in the Marine Environment},
+  journal       = {Marine Ecology Progress Series},
+  year          = {1981},
+  volume        = {4},
+  number        = {2},
+  pages         = {235-239},
+  issn          = {01718630, 16161599},
+  abstract      = {A chlorophyll sensor has been designed for remote applications in underwater-towed bodies and moored or buoyed sensor systems for measurement periods up to 60 d. The sensor has alternative ranges of 0 to 100 mg m⁻³ or 0 to 1000 mg m⁻³ chlorophyll a, with a resolution of 0.1 mg m⁻³, and excellent long-term stability of calibration. Some results obtained with the sensor in the Undulating Oceanographic Recorder in the English Channel are presented.},
+  groups        = {Fluorescence},
+  publisher     = {Inter-Research Science Center},
+  url           = {http://www.jstor.org/stable/24813202},
+}
+
+@InProceedings{Williams1990,
+  author    = {Robert Williams and James Aiken},
+  title     = {$\less$title$\greater$Optical measurements from underwater-towed vehicles deployed from ships-of-opportunity in the North Sea$\less$/title$\greater$},
+  booktitle = {Environment and Pollution Measurement Sensors and Systems},
+  year      = {1990},
+  editor    = {Hans O. Nielsen},
+  month     = {aug},
+  publisher = {{SPIE}},
+  doi       = {10.1117/12.20354},
+}
+
+## FerryBox
+
+@InProceedings{,
+  author    = {Hydes, D.J and Kelly-Gerreyn, B.A. and Hydes, D.J. and Colijn, F.; Petersen, W. and Schroeder, F. and Mills, D.K. and Durand, D. and Wehde, H. and Sorenson, K. and Morrison, G.},
+  title     = {The way forward in developing and integrating ferry-box technologies.},
+  booktitle = {Proceedings of OceanObs'09: Sustained Ocean Observations and Information for Society},
+  year      = {2010},
+  editor    = {Hall, J. and Harrison, D.E. and Stammer, D.},
+  volume    = {2},
+  pages     = {535-542},
+  address   = {Noordwijk, The Netherlands},
+  publisher = {European Space Agency},
+}
+
+@Article{Petersen2014,
+  author    = {Wilhelm Petersen},
+  title     = {{FerryBox} systems: State-of-the-art in Europe and future development},
+  journal   = {Journal of Marine Systems},
+  year      = {2014},
+  volume    = {140},
+  pages     = {4--12},
+  month     = {dec},
+  doi       = {10.1016/j.jmarsys.2014.07.003},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Althuis1994,
+  author    = {Ij.A. Althuis and W.W.C. Gieskes and L. Villerius and F. Colijn},
+  title     = {Interpretation of fluorometric chlorophyll registrations with Algal pigment analysis along a ferry transect in the Southern North Sea},
+  journal   = {Netherlands Journal of Sea Research},
+  year      = {1994},
+  volume    = {33},
+  number    = {1},
+  pages     = {37--46},
+  month     = {dec},
+  doi       = {10.1016/0077-7579(94)90049-3},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Petersen2008,
+  author    = {W. Petersen and H. Wehde and H. Krasemann and F. Colijn and F. Schroeder},
+  title     = {{FerryBox} and {MERIS} {\textendash} Assessment of coastal and shelf sea ecosystems by combining in situ and remotely sensed data},
+  journal   = {Estuarine, Coastal and Shelf Science},
+  year      = {2008},
+  volume    = {77},
+  number    = {2},
+  pages     = {296--307},
+  month     = {apr},
+  doi       = {10.1016/j.ecss.2007.09.023},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Petersen2011,
+  author    = {Wilhelm Petersen and Friedhelm Schroeder and Frank-Detlef Bockelmann},
+  title     = {{FerryBox} - Application of continuous water quality observations along transects in the North Sea},
+  journal   = {Ocean Dynamics},
+  year      = {2011},
+  volume    = {61},
+  number    = {10},
+  pages     = {1541--1554},
+  month     = {jun},
+  doi       = {10.1007/s10236-011-0445-0},
+  groups    = {FerryBox},
+  publisher = {Springer Nature},
+}
+
+@InProceedings{7296842,
+  author    = {W. Petersen and M. Petschatnikov and H. Wehde and F. Schroeder},
+  title     = {FerryBox #x2014; Real-time monitoring of water quality by ferryboats},
+  booktitle = {2004 USA-Baltic Internation Symposium},
+  year      = {2004},
+  pages     = {1-6},
+  month     = {June},
+  doi       = {10.1109/BALTIC.2004.7296842},
+  keywords  = {boats;environmental monitoring (geophysics);oceanographic regions;remote sensing;water quality;FerryBox data;North Sea;autonomous monitoring system;chemical-biological data;eutrophication status;ferry route;ferryboat;nutrient dynamics;plankton dynamics;remote sensing measurement;ship;water quality monitoring;Algae;Fluorescence;Marine vehicles;Monitoring;Oceanography;Sea measurements;Temperature measurement;FerryBox;North Sea;automated systems;eutrophication;operational oceanography;real time monitoring},
+}
+
+## Satellite
+
+@Article{Brewin2015,
+  author    = {Robert J. W. Brewin and Lee de Mora and Thomas Jackson and Thomas G. Brewin and Jamie Shutler},
+  title     = {On the Potential of Surfers to Monitor Environmental Indicators in the Coastal Zone},
+  journal   = {{PLOS} {ONE}},
+  year      = {2015},
+  volume    = {10},
+  number    = {7},
+  pages     = {e0127706},
+  month     = {jul},
+  doi       = {10.1371/journal.pone.0127706},
+  editor    = {Carlo Nike Bianchi},
+  publisher = {Public Library of Science ({PLoS})},
+}
+
