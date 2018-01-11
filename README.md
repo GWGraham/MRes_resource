@@ -6,7 +6,6 @@ Repository of useful stuff for MRes projects
 
 ## Contents
 
-(Background Reading)[/READING.md]
+[Background Reading](READING.md)
 
-(Sensor Info)[/SENSORS.md]
-
+[Sensor Info](SENSORS.md)
